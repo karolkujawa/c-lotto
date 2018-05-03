@@ -1,0 +1,9 @@
+c:\users\wmps\documents\visual studio 2013\Projects\lotto\lotto\bin\Debug\lotto.exe
+c:\users\wmps\documents\visual studio 2013\Projects\lotto\lotto\bin\Debug\lotto.pdb
+c:\users\wmps\documents\visual studio 2013\Projects\lotto\lotto\obj\Debug\lotto.Form1.resources
+c:\users\wmps\documents\visual studio 2013\Projects\lotto\lotto\obj\Debug\lotto.Properties.Resources.resources
+c:\users\wmps\documents\visual studio 2013\Projects\lotto\lotto\obj\Debug\lotto.csproj.GenerateResource.Cache
+c:\users\wmps\documents\visual studio 2013\Projects\lotto\lotto\obj\Debug\lotto.exe
+c:\users\wmps\documents\visual studio 2013\Projects\lotto\lotto\obj\Debug\lotto.pdb
+C:\Users\wmps\Documents\Visual Studio 2013\Projects\lotto\lotto\obj\Debug\lotto.Form2.resources
+C:\Users\wmps\Documents\Visual Studio 2013\Projects\lotto\lotto\obj\Debug\lotto.Form3.resources
