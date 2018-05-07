@@ -1,9 +1,9 @@
 # c-lotto
 Using random on basic lotery game. 
 
-Use two dictionaries to translate in both way on windowed mode. 
+Windowed mode. Instruction. 
+It has wallet and coupons
 
-Use:
-Loop foreach. 
-Create two Dictionaries. 
-Use beep module to sound. 
+Used:
+One class. 
+Random module. 
